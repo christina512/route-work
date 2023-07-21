@@ -1,0 +1,18 @@
+h1{
+    font-weight: bold;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    width: 250px;
+    height: 80px;
+    color: white;
+    background-color: blue;
+}
+button:hover{
+    background-color: green;
+}
